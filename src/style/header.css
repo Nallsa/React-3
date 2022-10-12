@@ -1,0 +1,23 @@
+.head {
+  display: flex;
+  width: 770px;
+  margin: 0 auto;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.header-ul {
+  margin-top: 15px;
+}
+
+.a-hd {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #003399;
+
+  text-decoration: none;
+  padding-right: 30px;
+}
