@@ -1,0 +1,44 @@
+.footer {
+  width: 800px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.footer-item {
+  margin: 0 auto;
+  margin-left: 30px;
+  padding-top: 5px;
+}
+
+.item {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-align: center;
+  margin-left: 30px;
+  color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+
+.img-f {
+  width: 98px;
+  height: 30px;
+}
+
+.intocode-f {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.f-end {
+  margin-top: 5px;
+}

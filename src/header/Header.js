@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo/Group 1.jpg';
-import '../style/header.css';
+import img from './img/Group 1.jpg';
+import './style/header.css';
 
 function Header() {
   return (
-    <div className='head'>
-      <img alt='dsada' src={logo} />
-      <div className='header-ul'>
+    <div className='header'>
+      <img alt='head' src={img} />
+      <div className='header-a'>
         <a href='#' className='a-hd'>
           Главная
         </a>

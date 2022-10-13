@@ -1,0 +1,49 @@
+.mid {
+  width: 710px;
+  margin: 0 auto;
+  margin-bottom: 257px;
+}
+
+.zero-m {
+  margin: 0 auto;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-size: 208px;
+  text-align: center;
+  color: #f27c0f;
+}
+
+.butt {
+  text-align: center;
+}
+
+.butt-m {
+  border: 0px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+
+  width: 130px;
+  height: 40px;
+  margin-left: 0;
+  margin-left: 55px;
+}
+
+.increase {
+  color: #ffffff;
+  background: #003399;
+
+  margin-left: 0;
+}
+
+.decrease {
+  background: #f27c0f;
+  color: #ffffff;
+}
+
+.del {
+  color: #000000;
+}
